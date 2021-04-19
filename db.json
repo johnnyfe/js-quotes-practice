@@ -1,59 +1,19 @@
 {
   "quotes": [
     {
-      "id": 1,
-      "quote": "Expect nothing. Live frugally on surprise.",
-      "author": "Alice Walker"
-    },
-    {
-      "id": 2,
-      "quote": "Y’all is the best, most inclusive, second-person, plural pronoun in the English-speaking world.",
-      "author": "Hannah Gadsby"
-    },
-    {
-      "id": 3,
-      "quote": "today a man on the street pointed to me & said ‘what the hell is that!?’ i wanted to turn around, tell him that i got this dress on sale & i got this body for free but you have been making me pay for both ever since.",
-      "author": "Alok Vaid Menon"
-    },
-    {
-      "id": 4,
-      "quote": "You gain strength, courage and confidence by every experience in which you really stop to look fear in the face. You are able to say to yourself, 'I have lived through this horror. I can take the next thing that comes along.' You must do the thing you think you cannot do.",
-      "author": "Eleanor Roosevelt"
-    },
-    {
-      "id": 5,
-      "quote": "We had better not enjoy the moment, but create the moment.",
-      "author": "Ai Weiwei"
-    },
-    {
-      "id": 6,
-      "quote": "If I didn't define myself for myself, I would be crunched into other people's fantasies for me and eaten alive.",
-      "author": "Audre Lorde"
-    },
-    {
-      "id": 7,
-      "quote": "Our greatest glory is not in never falling, but in rising everytime we fall.",
-      "author": "Confucius"
-    },
-    {
-      "id": 8,
-      "quote": "Don't count the days, make the days count.",
-      "author": "Muhammad Ali"
-    },
-    {
       "id": 9,
       "quote": "Not everything that is faced can be changed, but nothing can be changed until it is faced.",
       "author": "James Baldwin"
     },
     {
-      "id": 10,
-      "quote": "You know, failure hurts. Any kind of failure stings. If you live in the sting, you will undoubtedly fail. My way of getting past the sting is to say no, I’m just not going to let this get me down.",
-      "author": "Sonia Sotomayor"
+      "quote": "I love Pizza",
+      "author": "Johnny",
+      "id": 10
     },
     {
-      "id": 11,
-      "quote": "The here and now is all we have, and if we play it right it's all we'll need.",
-      "author": "Ann Richards"
+      "quote": "I love Pizza",
+      "author": "Johnny",
+      "id": 11
     }
   ],
   "likes": [
@@ -66,6 +26,246 @@
       "quoteId": 10,
       "id": 2,
       "createdAt": 1558524358
+    },
+    {
+      "quoteId": 1,
+      "id": 3
+    },
+    {
+      "quoteId": null,
+      "id": 4
+    },
+    {
+      "quoteId": null,
+      "id": 5
+    },
+    {
+      "quoteId": null,
+      "id": 6
+    },
+    {
+      "quoteId": null,
+      "id": 7
+    },
+    {
+      "quoteId": null,
+      "id": 8
+    },
+    {
+      "quoteId": null,
+      "id": 9
+    },
+    {
+      "quoteId": 10,
+      "id": 10
+    },
+    {
+      "quoteId": 9,
+      "id": 11
+    },
+    {
+      "quoteId": 9,
+      "id": 12
+    },
+    {
+      "quoteId": 9,
+      "id": 13
+    },
+    {
+      "quoteId": 9,
+      "id": 14
+    },
+    {
+      "quoteId": 1,
+      "id": 15
+    },
+    {
+      "quoteId": null,
+      "id": 16
+    },
+    {
+      "quoteId": null,
+      "id": 17
+    },
+    {
+      "quoteId": null,
+      "id": 18
+    },
+    {
+      "quoteId": null,
+      "id": 19
+    },
+    {
+      "quoteId": null,
+      "id": 20
+    },
+    {
+      "quoteId": null,
+      "id": 21
+    },
+    {
+      "quoteId": null,
+      "id": 22
+    },
+    {
+      "quoteId": null,
+      "id": 23
+    },
+    {
+      "quoteId": null,
+      "id": 24
+    },
+    {
+      "quoteId": null,
+      "id": 25
+    },
+    {
+      "quoteId": null,
+      "id": 26
+    },
+    {
+      "quoteId": null,
+      "id": 27
+    },
+    {
+      "quoteId": 1,
+      "id": 28
+    },
+    {
+      "quoteId": 2,
+      "id": 29
+    },
+    {
+      "quoteId": 3,
+      "id": 30
+    },
+    {
+      "quoteId": 4,
+      "id": 31
+    },
+    {
+      "quoteId": 5,
+      "id": 32
+    },
+    {
+      "quoteId": 6,
+      "id": 33
+    },
+    {
+      "quoteId": 2,
+      "id": 34
+    },
+    {
+      "quoteId": 2,
+      "id": 35
+    },
+    {
+      "quoteId": 1,
+      "id": 36
+    },
+    {
+      "quoteId": 3,
+      "id": 37
+    },
+    {
+      "quoteId": 6,
+      "id": 38
+    },
+    {
+      "quoteId": 6,
+      "id": 39
+    },
+    {
+      "quoteId": 6,
+      "id": 40
+    },
+    {
+      "quoteId": 6,
+      "id": 41
+    },
+    {
+      "quoteId": 6,
+      "id": 42
+    },
+    {
+      "quoteId": 10,
+      "id": 43
+    },
+    {
+      "quoteId": 11,
+      "id": 44
+    },
+    {
+      "quoteId": 11,
+      "id": 45
+    },
+    {
+      "quoteId": 10,
+      "id": 46
+    },
+    {
+      "quoteId": 10,
+      "id": 47
+    },
+    {
+      "quoteId": 10,
+      "id": 48
+    },
+    {
+      "quoteId": 10,
+      "id": 49
+    },
+    {
+      "quoteId": 10,
+      "id": 50
+    },
+    {
+      "quoteId": 10,
+      "id": 51
+    },
+    {
+      "quoteId": 12,
+      "id": 52
+    },
+    {
+      "quoteId": 11,
+      "id": 53
+    },
+    {
+      "quoteId": 11,
+      "id": 54
+    },
+    {
+      "quoteId": 11,
+      "id": 55
+    },
+    {
+      "quoteId": 11,
+      "id": 56
+    },
+    {
+      "quoteId": 11,
+      "id": 57
+    },
+    {
+      "quoteId": 11,
+      "id": 58
+    },
+    {
+      "quoteId": 11,
+      "id": 59
+    },
+    {
+      "quoteId": 11,
+      "id": 60
+    },
+    {
+      "quoteId": 11,
+      "id": 61
+    },
+    {
+      "quoteId": 11,
+      "id": 62
     }
   ]
 }
